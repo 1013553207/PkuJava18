@@ -60,8 +60,8 @@
 
 文章分词功能使用[NLPIR汉语分词系统](http://ictclas.nlpir.org/newsdownloads?DocId=389)实现。
 
-scrapy   网络爬虫代码，
-hdParse hadoop处理爬虫结果，排序等等
-result.txt   2015年新华网，出现关键词分布
+* scrapy   网络爬虫代码，
+* hdParse hadoop处理爬虫结果，排序等等
+* result.txt   2015年新华网，出现关键词分布
 
       
