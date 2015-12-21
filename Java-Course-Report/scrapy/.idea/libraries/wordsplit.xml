@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="wordsplit">
+    <CLASSES>
+      <root url="file://$PROJECT_DIR$/wordsplit" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+    <jarDirectory url="file://$PROJECT_DIR$/wordsplit" recursive="false" />
+  </library>
+</component>
