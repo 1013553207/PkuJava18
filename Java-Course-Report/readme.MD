@@ -62,6 +62,6 @@
 
 * scrapy   网络爬虫代码，
 * hdParse hadoop处理爬虫结果，排序等等
-* result.txt   2015年新华网，出现关键词分布
+* result文件夹 origin为爬去处理结果  result01 ~ result12 表示1月~12月的关键词分布
 
       
