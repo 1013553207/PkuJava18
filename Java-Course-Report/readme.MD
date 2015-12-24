@@ -73,7 +73,8 @@
 
 * scrapy   网络爬虫代码，
 * hdParse hadoop处理爬虫结果，排序等等
-* result文件夹 origin为爬去处理结果  result01 ~ result12 表示1月~12月的关键词分布
+* result文件夹 origin为爬去处理结果  result01 ~ result12 表示1月~12月的关键词分布, result 表示全年关键词分布
+* 爬去网站百度新闻。百度新闻可以定位到历史上每天的新闻  http://news.baidu.com/2015-12-01/?y=2015&m=12&d=01&begin_date=2015-12-01  修改里面的参数既可以实现
 
 
 ## 未完成内容
