@@ -56,24 +56,22 @@
       
 ## 文件结构说明
 
-* scrapy   网络爬虫代码，
-* hdParse hadoop处理爬虫结果，排序等等
+* readme		项目详情说明
+* scrapy		网络爬虫代码，
+* hdParse		hadoop处理爬虫结果，排序等等
+* result		网络数据爬取结果
+* infographics	数据分析结果信息图谱
+* structure		项目架构说明文档
 
 ## 资源引用
 
 ### 数据来源
 
-本项目所使用的文章数据来自百度新闻2015年所公开发布的所有新闻。
+本项目所使用的统计数据来自新华网以及百度新闻在2015年度所公开发布的所有新闻。
 
 ### 文章分词功能
 
 文章分词功能使用[NLPIR汉语分词系统](http://ictclas.nlpir.org/newsdownloads?DocId=389)实现。
-
-
-* scrapy   网络爬虫代码，
-* hdParse hadoop处理爬虫结果，排序等等
-* result文件夹 origin为爬去处理结果  result01 ~ result12 表示1月~12月的关键词分布, result 表示全年关键词分布
-* 爬去网站百度新闻。百度新闻可以定位到历史上每天的新闻  http://news.baidu.com/2015-12-01/?y=2015&m=12&d=01&begin_date=2015-12-01  修改里面的参数既可以实现
 
 
 
