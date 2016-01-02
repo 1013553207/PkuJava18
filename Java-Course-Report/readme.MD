@@ -59,7 +59,7 @@
 * [hdParse](hdParse) hadoop处理爬虫结果，排序等等
 * [result](result) 网络数据爬取结果
 * [infographic](infographic.pdf) 数据分析结果信息图谱
-* [flow](flow.svg) 项目架构图
+* [structure](structure.svg) 项目架构图
 
 ## 项目架构说明
 
@@ -67,7 +67,7 @@
 
 项目架构及运行流程如下图所示：
 
-![项目流程图](https://cdn.rawgit.com/1013553207/PkuJava18/master/Java-Course-Report/flow.svg)
+![项目流程图](https://cdn.rawgit.com/1013553207/PkuJava18/master/Java-Course-Report/structure.svg)
 
 项目可分为以下三个部分：
 
