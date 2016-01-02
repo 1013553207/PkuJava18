@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="nlpirlib">
+    <CLASSES>
+      <root url="file://$PROJECT_DIR$/../NLPIR-master/NLPIR SDK/KeyExtract/projects/KeyExtract_java/lib" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+    <jarDirectory url="file://$PROJECT_DIR$/../NLPIR-master/NLPIR SDK/KeyExtract/projects/KeyExtract_java/lib" recursive="false" />
+  </library>
+</component>

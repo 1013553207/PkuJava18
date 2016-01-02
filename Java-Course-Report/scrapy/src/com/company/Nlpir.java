@@ -1,7 +1,5 @@
 package com.company;
 
-
-
 import java.io.UnsupportedEncodingException;
 import com.sun.jna.Library;
 import com.sun.jna.Native;
@@ -16,8 +14,8 @@ public class Nlpir {
 		int charset_type = 1;
 		if (!CLibrary.Instance.NLPIR_Init(argu.getBytes(system_charset),
 				charset_type, "0".getBytes(system_charset))) {
-				System.out.println("初始下失败");
-				return false;
+			System.out.println("初始下失败");
+			return false;
 		}
 		return true;
 	}
@@ -51,11 +49,11 @@ public class Nlpir {
 
 	public static String handle(String sInput) throws Exception {
 		if(!init_flag)
-	        init_flag = init();
+			init_flag = init();
 
 		String nativeByte = "";
 		try {
-			nativeByte = CLibrary.Instance.NLPIR_GetKeyWords(sInput, 6, false);
+			nativeByte = CLibrary.Instance.NLPIR_GetKeyWords(sInput, 100, false);
 
 		} catch (Exception ex) {
 			ex.printStackTrace();
