@@ -1,6 +1,6 @@
 # Java编程技能训练课程大项目——新闻热点与趋势挖掘工具
 
-小组成员： 孙明月 张玉英 魏钊旸
+小组成员：孙明月 张玉英 魏钊旸
 
 创建日期：2015年12月10日  最后修改日期：2015年12月31日
 
@@ -60,6 +60,7 @@
 * [result](result) 网络数据爬取结果
 * [infographic](infographic.pdf) 数据分析结果信息图谱
 * [structure](structure.svg) 项目架构图
+* [presentation](presentation.pptx) 项目展示材料
 
 ## 项目架构说明
 
